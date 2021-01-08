@@ -33,12 +33,12 @@ namespace Strawberry_Client
 
         static void Main(string[] args)
         {
-            Thread.Sleep(10000);
-
             var handle = GetConsoleWindow();
 
             ShowWindow(handle, SW_HIDE);
-
+            
+            Thread.Sleep(10000);
+            
             yerles();
 
             eventtanimla();
