@@ -1,0 +1,11 @@
+C:\Users\fikret\source\repos\Strawberry Client\bin\Release\Strawberry Client.exe.config
+C:\Users\fikret\source\repos\Strawberry Client\bin\Release\Strawberry Client.exe
+C:\Users\fikret\source\repos\Strawberry Client\bin\Release\Strawberry Client.pdb
+C:\Users\fikret\source\repos\Strawberry Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\fikret\source\repos\Strawberry Client\bin\Release\WatsonTcp.xml
+C:\Users\fikret\source\repos\Strawberry Client\obj\Release\Strawberry Client.csprojAssemblyReference.cache
+C:\Users\fikret\source\repos\Strawberry Client\obj\Release\Strawberry Client.csproj.CoreCompileInputs.cache
+C:\Users\fikret\source\repos\Strawberry Client\obj\Release\Strawberry Client.csproj.Fody.CopyLocal.cache
+C:\Users\fikret\source\repos\Strawberry Client\obj\Release\Strawberry Client.csproj.CopyComplete
+C:\Users\fikret\source\repos\Strawberry Client\obj\Release\Strawberry Client.exe
+C:\Users\fikret\source\repos\Strawberry Client\obj\Release\Strawberry Client.pdb
